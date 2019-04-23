@@ -1,6 +1,6 @@
-# anabar_new
+# Anabar
 
-A new Flutter project.
+ぐるなびAPIを用いてバーを探せるアプリ
 
 ## Getting Started
 
